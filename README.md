@@ -3,7 +3,7 @@
 <h3 align="center">A passionate pyhton, nodejs, videogames and java</h3>
 <img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=YokiiDev&label=Profile%20views&color=0e75b6&style=flat" alt="Yokiidev" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=YokiiDev&label=Profile%20views&color=0e75b6&style=flat" alt="Epicaaron85" /> </p>
 
 - 🔭 I’m currently working on : **My Minecraft Server**
 
