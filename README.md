@@ -1,6 +1,6 @@
 <!-- [![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)](https://github.com/wiizzl) -->
 <h1 align="center">Hi 👋, I'm Epicaaron85</h1>
-<h3 align="center">A passionate pyhton, nodejs, videogames and java</h3>
+<h3 align="center">A passionate Lua, nodejs, videogames and C#</h3>
 <img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Epicaaron85&label=Profile%20views&color=0e75b6&style=flat" alt="Epicaaron85" /> </p>
