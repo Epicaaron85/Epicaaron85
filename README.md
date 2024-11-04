@@ -1,4 +1,3 @@
-<!-- [![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)](https://github.com/wiizzl) -->
 <h1 align="center">Hi 👋, I'm Epicaaron85</h1>
 <h3 align="center">A passionate Lua, nodejs, videogames and C#</h3>
 <img align="right" alt="Coding" width="400" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExcWk0eG9wa3JlZzZxeWtjNHhueDdhZmg0dmoyZ3kxbmFvNnJmaGdhNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/XIhnLv01ZTmvnJ5zck/200.webp">
