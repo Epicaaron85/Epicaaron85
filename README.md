@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Epicaaron85&label=Profile%20views&color=0e75b6&style=flat" alt="Epicaaron85" /> </p>
 <p align="left"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Epicaaron85&theme=dark&show_icons=true&hide_border=true&layout=compact" alt="Epicaaron85Langage" /> </p>
-<p align="left"> <img src="https://dcbadge.limes.pink/api/server/https://discord.gg/fxzaMyH7SD" alt="Community Invaders" /> </p>
+
 
 - 🔭 I’m currently working on : **A revolutionary script**
 
